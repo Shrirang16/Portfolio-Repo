@@ -4,7 +4,7 @@ I'm an aspiring DevOps engineer passionate about cloud computing, infrastructure
 
 ## 🎯 Goal
 
-My goal is to **break into a cloud/DevOps engineering role** (or grow my current career in DevOps) by building hands-on projects, continuously learning new technologies, and contributing to the DevOps community.
+My goal is to **break into a cloud/DevOps engineering role**  grow my current career in DevOpS by building hands-on projects, continuously learning new technologies, and contributing to the DevOps community.
 
 ## 📜 Certifications
 
